@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - helloworld (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - helloworld (from `.symlinks/plugins/helloworld/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  helloworld:
+    :path: ".symlinks/plugins/helloworld/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  helloworld: dee997d990e1f5a3f36c8841146535d0a456ad91
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.6.0
