@@ -1,8 +1,10 @@
 name: helloworld
 description: A new flutter plugin project.
+author: TopSky <topskycomeon@163.com>
+issue_tracker: https://github.com/TopSkySir/FlutterHelloPlugin/issues
+repository: https://github.com/TopSkySir/FlutterHelloPlugin.git
+homepage: https://github.com/TopSkySir/FlutterHelloPlugin.git
 version: 0.0.1
-author:
-homepage:
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
